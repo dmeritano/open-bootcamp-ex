@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<h1>IMDB Home Page</h1>
+<p>Welcome</p>
+
+<h2>Directors</h2>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Born</th>
+            <th>Nationality</th>
+            <th>Spouse(s)</th>
+            <th># Sons</th>
+        </tr>        
+    </thead>
+    <tbody>
+    {% for d in directors %}
+        <tr>
+            <td>{{ d.name }}</td>
+            <td>{{ d.born_date }}</td>
+            <td>{{ d.nationality }}</td>
+            <td>{{ d.spouse }}</td>
+            <td>{{ d.sons }}</td>
+        </tr>
+    {% endfor %}   
+    </tbody>
+</table>
+
+{% endblock %}
