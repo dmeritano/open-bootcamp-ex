@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es" xmlns:th="http://www.thymeleaf.org">
+<head>
+	<meta charset="UTF-8">
+	<title>Page 2 - User profile</title>
+</head>
+	<body>
+		<table>
+			<tbody>
+				<tr>
+					<th>Attribute</th>
+					<th>Value</th>
+				</tr>
+				<tr>
+					<td>Client Name</td>
+					<td th:text="${clientName}"></td>
+				</tr>
+				<tr>
+					<td>User Name</td>
+					<td th:text="${userName}"></td>
+				</tr>				
+				<tr>
+					<td>User Attributes</td>
+					<td th:text="${userAttributes}"></td>
+				</tr>												
+			</tbody>
+		</table>
+
+	</body>
+</html>
