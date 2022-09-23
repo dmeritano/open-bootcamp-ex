@@ -1,0 +1,23 @@
+Análisis de sistemas: diseño y métodos, séptima edición, está dividido en tres partes. La
+organización del texto es lo sufi cientemente fl exible para permitir que los instructores
+omitan o retomen capítulos de acuerdo con lo que decidan que es más importante para
+su audiencia. Se hicieron todos los esfuerzos posibles para hacer independientes los capítulos
+uno de otro y para ayudar a retomar la secuencia del material; incluso al grado de
+reintroducir conceptos y terminología específi ca.
+En la Parte Uno, “El contexto de proyectos de desarrollo de sistemas”, se presenta el
+escenario y los procesos de desarrollo de sistemas de información. En los capítulos 1 al
+3, al estudiante, se le presentan los analistas de sistemas, otros miembros del equipo del
+proyecto (incluidos usuarios y administradores), componentes de sistemas de información
+(basado en el marco de referencia de Zachman), y el ciclo de vida de desarrollo de sistemas
+contemporáneos. La Parte Uno puede ser cubierta relativamente rápido.
+En la Parte Dos, “Métodos de análisis de sistemas”, se abarcan las actividades del ciclo de
+vida del front-end, las herramientas y técnicas para analizar problemas de negocios, especificación
+de requerimientos de negocios para un sistema de información y propuesta de
+solución de negocios y sistemas. Los capítulos 4 al 9 cubren los temas de requerimientos,
+casos de uso, modelado de datos con diagramas entidad-relación, modelado de procesos
+con diagramas de flujo de datos, e identificación de soluciones y propuesta de sistemas.
+En la Parte Tres, “Métodos de diseño de sistemas”, se abarcan las actividades intermedias
+del ciclo de vida, herramientas y técnicas. En los capítulos del 10 al 15 se incluyen
+los temas del diseño general y detallado, con un énfasis particular en la arquitectura de
+aplicaciones, el desarrollo rápido y el desarrollo de prototipos, el diseño externo (entradas,
+salidas.
